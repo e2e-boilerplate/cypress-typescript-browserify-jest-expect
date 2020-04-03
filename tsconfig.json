@@ -4,8 +4,13 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "lib": ["dom", "es2015"],
-    "types": ["cypress"],
+    "types": ["jest", "cypress"],
     "typeRoots": ["node_modules/@types"],
-    "target": "es5"
+    "target": "es5",
+    "skipLibCheck": true,
+    "paths": {
+      "chai": ["./noop.d.ts"]
+    },
+    "baseUrl": "../node_modules"
   }
 }
