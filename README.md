@@ -2,7 +2,7 @@
     
 # Cypress Boilerplate
     
-Cypress end-to-end test automation boilerplate, Using TypeScript, Browserify, Jest and Expect.
+Cypress end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [Browserify](http://browserify.org), [Jest](https://jestjs.io) and Expect.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/cypress-typescript-browserify-jest-expect.git
