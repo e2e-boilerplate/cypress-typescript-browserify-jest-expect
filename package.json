@@ -29,16 +29,17 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "browserify",
     "cypress",
+    "expect",
+    "jest",
+    "typescript",
     "e2e",
     "e2e tests",
-    "example",
-    "expect",
+    "boilerplate",
     "integration test",
-    "jest",
-    "typescript"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
