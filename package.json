@@ -14,7 +14,7 @@
   "devDependencies": {
     "@cypress/browserify-preprocessor": "3.0.1",
     "@types/cypress-cucumber-preprocessor": "1.14.1",
-    "@types/jest": "26.0.12",
+    "@types/jest": "26.0.13",
     "husky": "4.2.5",
     "lint-staged": "10.2.13",
     "prettier": "2.1.1",
